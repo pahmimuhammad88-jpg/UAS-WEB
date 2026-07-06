@@ -13,7 +13,6 @@
     position: fixed;
 }
 
-
 .logo {
     padding-top: 20px;
     padding-bottom: 10px;
@@ -126,7 +125,7 @@ h1 span:before {
     }
 
     50% {
-        content: 'Saya Profesor Saitama';
+        content: 'Saya Haji Saitama S.Kom';
     }
 
     100% {
